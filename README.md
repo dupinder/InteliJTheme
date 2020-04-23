@@ -8,3 +8,5 @@ I create my custom InteliJ Idea theme. I love VS code color scheme.
 * import and apply changes.
 
 
+## ScreenShots
+![alt text](/screenshots.png)
